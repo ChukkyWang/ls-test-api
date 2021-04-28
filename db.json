@@ -1,0 +1,31 @@
+{
+   "user": [
+       {
+           "id": 0,
+           "name": "Eze Chukwuka",
+           "payment": true,
+           "beneficiary": [
+               {
+                   "bfirstName": "Yavnov",
+                   "blastName": "Igantius",
+                   "bEmail": "yavnov@gmail.com",
+                   "bPhone": "+2348183776699",
+                   "bRelationship": "Enemy"
+               }
+           ],
+           
+
+           "transaction":[
+               {
+                "productType": "Carelife",
+                "productID": "130211009",
+                "productPrice": "850",
+                "productStatus": true,
+                "producDue": "16th June, 2021",
+                "productPayement": "4-17-2021, 16:22",
+                "paymentStruc": "Quarterly"
+               }
+           ]          
+       }
+   ]
+}
